@@ -24,8 +24,8 @@
             </mxGeometry>
           </mxCell>
         </UserObject>
-        <mxCell id="7gda0cShcsrxNM-lWnQe-2" value="Input a, b" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="160" y="170" width="120" height="60" as="geometry" />
+        <mxCell id="7gda0cShcsrxNM-lWnQe-2" value="Input double a, b" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="160" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="r7APekA5mWR24cyA9sQ--13" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=-0.008;exitY=0.528;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="r7APekA5mWR24cyA9sQ--26" target="r7APekA5mWR24cyA9sQ--12">
           <mxGeometry relative="1" as="geometry">
@@ -84,10 +84,10 @@
         <mxCell id="r7APekA5mWR24cyA9sQ--22" value="Finish" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="750" y="790" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="r7APekA5mWR24cyA9sQ--26" value="a = 0" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="145" y="320" width="150" height="90" as="geometry" />
+        <mxCell id="r7APekA5mWR24cyA9sQ--26" value="a == 0" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="145" y="310" width="150" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="r7APekA5mWR24cyA9sQ--27" value="b = 0" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="r7APekA5mWR24cyA9sQ--27" value="b == 0" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="520" y="460" width="150" height="90" as="geometry" />
         </mxCell>
       </root>
