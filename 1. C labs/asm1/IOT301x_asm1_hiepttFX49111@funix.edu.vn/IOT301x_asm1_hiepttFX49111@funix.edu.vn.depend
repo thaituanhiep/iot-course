@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1729254008 source:c:\users\hieptuan.thai\desktop\iot-course\1. c labs\asm1\iot301x_asm1_hiepttfx49111@funix.edu.vn\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
