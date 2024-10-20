@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1729417506 source:c:\users\habit\onedrive\máy tính\iot-course\1. c labs\lab 10\bai2_lab10\main.c
+	<stdio.h>
+	<string.h>
+
