@@ -3,6 +3,9 @@
 
 int main()
 {
-    printf("Hello world!\n");
+    int a = 51;
+    int *ptr = (int *) &a;
+    *ptr = 28;
+    printf("Gia tri cua a: %d", a);
     return 0;
 }
